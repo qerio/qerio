@@ -1,4 +1,4 @@
-# Qer.IO
+# Qer.io
 
 ## Zero-Trust Industrial Edge Connectivity Platform
 
